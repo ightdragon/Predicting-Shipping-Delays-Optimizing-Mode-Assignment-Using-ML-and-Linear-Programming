@@ -45,13 +45,3 @@ $$\min \sum_{o \in \text{Orders}} \sum_{m \in \text{Modes}} x_{o,m} \cdot (P_{o,
 $$\sum_{m \in \text{Modes}} x_{o,m} = 1 \quad \forall o \in \text{Orders}$$
 
 ---
-
-## 📊 Visualizations & Transitions
-
-### Mode Shifting Proportions
-The optimized routing maps indicate systemic patterns where historical defaults consistently over-spent on *First Class* allocations when *Standard Class* structures demonstrated comparable security margins.
-
-### Transition Heatmap
-The Seaborn visualization validates that the mathematical optimizer successfully flags and migrates high-risk workflows to premium pipelines while bulk shifting stable transactions down-market to preserve expenditures.
-
----
